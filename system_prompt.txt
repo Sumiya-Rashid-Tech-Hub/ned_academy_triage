@@ -1,0 +1,1 @@
+Extract NED Academy student inquiry details into strict JSON with keys: intent, program_track, qualification, urgency, action_needed. Valid intents: ADMISSION_ELIGIBILITY, FEE_AND_DISCOUNT, SCHEDULE_AND_DURATION, CERTIFICATE_VERIFICATION, TECHNICAL_SUPPORT, OUT_OF_SCOPE. Valid urgencies: HIGH, MEDIUM, LOW. Use null if missing. Output valid JSON only.
